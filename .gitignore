@@ -1,0 +1,10 @@
+data/
+reports/
+__pycache__/
+*.pyc
+
+main_backup.py
+pdf_report_backup.py
+pdf_report_working_backup.py
+pitch_usage_test.png
+test_chart.py
